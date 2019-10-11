@@ -1,0 +1,11 @@
+id,analysis_id,path,filename,filetype,file_format_name
+0,0,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR302/002/SRR3020612/SRR3020612_1.fastq.gz,SRR3020612_1.fastq.gz,http://edamontology.org/format_1930,FASTQ
+1,0,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR302/002/SRR3020612/SRR3020612_2.fastq.gz,SRR3020612_2.fastq.gz,http://edamontology.org/format_1930,FASTQ
+2,1,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR302/003/SRR3020613/SRR3020613_1.fastq.gz,SRR3020613_1.fastq.gz,http://edamontology.org/format_1930,FASTQ
+3,1,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR302/003/SRR3020613/SRR3020613_2.fastq.gz,SRR3020613_2.fastq.gz,http://edamontology.org/format_1930,FASTQ
+4,2,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR302/004/SRR3020614/SRR3020614_1.fastq.gz,SRR3020614_1.fastq.gz,http://edamontology.org/format_1930,FASTQ
+5,2,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR302/004/SRR3020614/SRR3020614_2.fastq.gz,SRR3020614_2.fastq.gz,http://edamontology.org/format_1930,FASTQ
+6,3,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR302/005/SRR3020615/SRR3020615_1.fastq.gz,SRR3020615_1.fastq.gz,http://edamontology.org/format_1930,FASTQ
+7,3,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR302/005/SRR3020615/SRR3020615_2.fastq.gz,SRR3020615_2.fastq.gz,http://edamontology.org/format_1930,FASTQ
+8,4,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR302/006/SRR3020616/SRR3020616_1.fastq.gz,SRR3020616_1.fastq.gz,http://edamontology.org/format_1930,FASTQ
+9,4,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR302/006/SRR3020616/SRR3020616_2.fastq.gz,SRR3020616_2.fastq.gz,http://edamontology.org/format_1930,FASTQ

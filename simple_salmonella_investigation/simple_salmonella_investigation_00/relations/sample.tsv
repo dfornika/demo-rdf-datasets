@@ -1,5 +1,0 @@
-id	name	isolation_source	patient_id	collection_date
-0		chicken, raw	NULL	2018-03-01
-1		spinach	NULL	2018-04-05
-2		stool	P0001	2018-02-01
-3		stool	P0002	2018-03-22

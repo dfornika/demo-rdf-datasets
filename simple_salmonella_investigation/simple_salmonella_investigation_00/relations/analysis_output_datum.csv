@@ -1,0 +1,11 @@
+id,analysis_id,datum_type,datum_value
+0,0,mlst/scheme,senterica
+1,0,mlst/sequence_type,32
+2,1,mlst/scheme,senterica
+3,1,mlst/sequence_type,18
+4,2,mlst/scheme,senterica
+5,2,mlst/sequence_type,32
+6,3,mlst/scheme,senterica
+7,3,mlst/sequence_type,32
+8,4,mlst/scheme,senterica
+9,4,mlst/sequence_type,32
