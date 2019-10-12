@@ -1,6 +1,6 @@
 id,name,sample_id,creation_date,type
-0,,0,2018-06-21,Illumina Nextera XT
-1,,1,2018-06-21,Illumina Nextera XT
-2,,2,2018-06-21,Illumina Nextera XT
-3,,3,2018-06-21,Illumina Nextera XT
-4,,3,2018-07-02,Illumina Nextera XT
+0,L000,0,2018-06-21,Illumina Nextera XT
+1,L001,1,2018-06-21,Illumina Nextera XT
+2,L002,2,2018-06-21,Illumina Nextera XT
+3,L003,3,2018-06-21,Illumina Nextera XT
+4,L004,3,2018-07-02,Illumina Nextera XT
