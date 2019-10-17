@@ -1,0 +1,72 @@
+- name: Subject
+  doc: |
+    An individual that is the subject of the investigation
+  type: record
+  abstract: false
+  fields:
+    id: int
+    subject_identifier: string
+    birthdate: date
+- name: Sample
+  doc: |
+    A biological sample
+  type: record
+  abstract: false
+  fields:
+    id: int
+    name: string
+    birthdate: date
+    subject_id: int
+    collection_date: string
+- name: Library
+  doc: |
+    A nucleic acid sequencing library derived from a Sample
+  type: record
+  abstract: false
+  fields:
+    id: int
+    name: string
+    sample_id: int
+    creation_date: date
+    type: string
+- name: Analysis
+  doc: |
+    An analysis performed on some sequence data
+  type: record
+  abstract: false
+  fields:
+    id: int
+    type: string
+- name: AnalysisInputFile
+  doc: |
+    An input file for an Analysis
+  type: record
+  abstract: false
+  fields:
+    id: int
+    analysis_id: int
+    path: string
+    filename: string
+    fileytpe: string
+    file_format_name: string
+- name: AnalysisInputParameter
+  doc: |
+    An analysis performed on some sequence data
+  type: record
+  abstract: false
+  fields:
+    id: int
+    parameter_name: string
+    parameter_flag: string
+    parameter_value: string
+- name: AnalysisOutputDatum
+  doc: |
+    An analysis performed on some sequence data
+  type: record
+  abstract: false
+  fields:
+    id: int
+    analysis_id: int
+    datum_type: string
+    datum_value: string
+
