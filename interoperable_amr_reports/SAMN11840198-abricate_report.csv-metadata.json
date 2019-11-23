@@ -1,0 +1,86 @@
+{
+    "@context": "http://www.w3.org/ns/csvw",
+    "url": "SAMN11840198-abricate_report.csv"
+    "tableSchema": {
+        "columns": [
+            {
+                "titles": "#FILE",
+                "name": "file",
+                "datatype": "string"
+            },
+            {
+                "titles": "SEQUENCE",
+                "name": "sequence",
+                "datatype": "string"
+            },
+            {
+                "titles": "START",
+                "name": "start",
+                "datatype": "integer"
+            },
+            {
+                "titles": "END",
+                "name": "end",
+                "datatype": "integer"
+            },
+            {
+                "titles": "STRAND",
+                "name": "strand",
+                "datatype": {
+                    "base": "string",
+                    "format": "[+-]"
+                }
+            },
+            {
+                "titles": "GENE",
+                "name": "gene",
+                "datatype": "string"
+            },
+            {
+                "titles": "COVERAGE",
+                "name": "coverage",
+                "datatype": "string"
+            },
+            {
+                "titles": "COVERAGE_MAP",
+                "name": "coverage_map",
+                "datatype": "string"
+            },
+            {
+                "titles": "GAPS",
+                "name": "gaps",
+                "datatype": "string"
+            },
+            {
+                "titles": "%COVERAGE",
+                "name": "percent_coverage",
+                "datatype": "float"
+            },
+            {
+                "titles": "%IDENTITY",
+                "name": "percent_identity",
+                "datatype": "float"
+            },
+            {
+                "titles": "DATABASE",
+                "name": "database",
+                "datatype": "string"
+            },
+            {
+                "titles": "ACCESSION",
+                "name": "accession",
+                "datatype": "string"
+            },
+            {
+                "titles": "PRODUCT",
+                "name": "product",
+                "datatype": "string",
+            },
+            {
+                "titles": "RESISTANCE",
+                "name": "resistance",
+                "datatype": "string"
+            }
+        ]
+    }
+}
