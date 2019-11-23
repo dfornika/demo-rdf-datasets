@@ -1,6 +1,6 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
-    "url": "SAMN11840198-abricate_report.csv"
+    "url": "SAMN11840198-abricate_report.csv",
     "tableSchema": {
         "columns": [
             {
